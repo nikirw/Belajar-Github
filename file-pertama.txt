@@ -4,3 +4,6 @@ Mungkin suatu saat akan digunakan untuk suatu keperluan tertentu
 
 //Update pertama
 Hehe pada bagian ini saya update file ini
+
+//Update lagi
+Untuk testing aja
